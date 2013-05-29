@@ -1,6 +1,11 @@
 Todo:
-- Update Node version
-- Setup jake
+* Update Node version
+    node --version
+    (v0.10.8)
+* Setup jake
+    npm install jake
+    create jakefile.js
+    setup default and lint tasks
 - Setup Lint
 - Setup continuous integration
 - Setup NodeUnit
