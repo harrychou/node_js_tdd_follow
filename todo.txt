@@ -1,0 +1,6 @@
+Todo:
+- Update Node version
+- Setup jake
+- Setup Lint
+- Setup continuous integration
+- Setup NodeUnit
